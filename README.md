@@ -1,7 +1,7 @@
 AIatNCStateSpring2021SafetyPathGeneratorProject
 ==============================
 
-This Spring 2021 AI at NC State project repository cotnains all of the machine learning prototyping code for the Safety Path Generator project. Acquiring tabular de-identified crime data from local college cities in North and South Carolina, [C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[A[Do[B[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[cities in North and South Carolina, it seeks to harness the power of applied AI models to provide a heat map at any given time and place where incidences of crime per type are occuring and alert users of those areas, thereby providing with a path to take to avoid certains areas at certain points of the day where their likelihood of becoming victims of a particular type of crime are higher.
+This Spring 2021 AI at NC State project repository cotnains all of the machine learning prototyping code for the Safety Path Generator project. Acquiring tabular de-identified crime data from local college cities in North and South Carolina, cities in North and South Carolina, it seeks to harness the power of applied AI models to provide a heat map at any given time and place where incidences of crime per type are occuring and alert users of those areas, thereby providing with a path to take to avoid certains areas at certain points of the day where their likelihood of becoming victims of a particular type of crime are higher.
 
 Project Organization
 ------------
@@ -53,5 +53,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
