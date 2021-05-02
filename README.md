@@ -37,7 +37,7 @@ Contact :
 ==============================
  Thanks to all the people who contribute.
  
- Jeffrey Wang,        Pratham Chhabria,         Jeremy Spooner
+ Jeffrey Wang(ideation,data),        Pratham Chhabria(ideation),         Jeremy Spooner(data)
 
 Contributions, issues and feature requests are welcome.
 Feel free to check issues page if you want to contribute.
