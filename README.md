@@ -42,6 +42,18 @@ Contact :
 Contributions, issues and feature requests are welcome.
 Feel free to check issues page if you want to contribute.
 
+Vision: 
+==============================
+
+Our vision is to use the ML model to predict crime probability, to analyse and suggest the safest path and the navigation from source to destination.    
+This project when deployed provides awareness of areas and crime-rates to the general public and also can help the police department to distribute their forces.  
+The model is envisioned to improve and adapt as we add more recent data. 
+
+Impact:
+==============================
+
+The project can impact both economy and sense of security. 
+<include statistics>  
 
 AIatNCStateSpring2021SafetyPathGeneratorProject
 ==============================
